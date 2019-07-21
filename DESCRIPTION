@@ -1,0 +1,15 @@
+Package: SCTCwhatateam
+Type: Package
+Title: R package motivated by the SCTC Dream Challenges
+Version: 0.1.0
+Date: 2019
+Author: Buu Truong, Xiaomei Li, Hoang Pham, Thin Nguyen, Thuc Le
+Maintainer: Buu Truong <trumt001@mymail.unisa.edu.au>
+Depends: R (>= 3.0.0)
+Imports: CancerSubtypes, ggplot2, dbscan, ggpubr, rgl, stats, reticulate, geometry, Rmagic
+Description: A winning method from SCTC Dream Challenges.
+License: GPL (>= 2)
+Suggests: knitr
+VignetteBuilder: knitr
+biocViews: Clustering, Software, Visualization, GeneExpression
+RoxygenNote: 6.1.1

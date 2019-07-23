@@ -31,4 +31,4 @@ The input requirements are based on each method's preference. In general,
 
 - 3D coordinates for each locations (Locations x (x,y,z) coordinates): see geometry.csv
 
-- Seed list: seed_list.csv
+- Seed list: see seed_list.csv

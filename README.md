@@ -1,4 +1,3 @@
-
 # SCTCwhatateam: A package to predict cell locations based on location-marker genes
 
 ### Supplementary folder: https://www.dropbox.com/sh/q7fq3y5yw1lmtrq/AAAnVDVAWzdBRS6FJor-Bk1Aa?dl=0
@@ -24,12 +23,12 @@ To simplify we have developed an easy-to-use user interface at http://nugget.uni
 
 The input requirements are based on each method's preference. In general,
 
-- Reference locations for gene markers (Locations x Genes): see bdtnp.csv
+- Reference gene expression for locations (Locations x Genes): see bdtnp.csv
 
 - Reference scRNA-Seq binarized file (Cells x Genes): see binarized_bdtnp.csv
 
 - scRNA-Seq normalized file (Cells x Genes): see dge_normalized.csv
 
-- 3D coordinates for each location: see geometry.csv
+- 3D coordinates for each locations (Locations x (x,y,z) coordinates): see geometry.csv
 
 - Seed list: seed_list.csv

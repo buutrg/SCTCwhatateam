@@ -4,13 +4,14 @@
 Our tutorial is coming soon.
 
 Supplementary folder: https://www.dropbox.com/sh/q7fq3y5yw1lmtrq/AAAnVDVAWzdBRS6FJor-Bk1Aa?dl=0
-The Python functions (linGen, linFwd, linRev) could be retrieved by running the linmethods.py provided in the Supplementary folder
+
+The Python functions (linGen, linFwd, linRev) could be retrieved by running the linmethods.py provided in the Supplementary folder.
 ```{r}
 library(reticulate)
 source_python("./linmethods.py")
 ```
 
-The data example is provided by DREAM Single Cell Transcriptomics Challenge in the Supplementary folder
+The data example is provided by DREAM Single Cell Transcriptomics Challenge in the Supplementary folder.
 
 ## 2. Shiny app
 To simplify we have developed an easy-to-use user interface at http://nugget.unisa.edu.au:3838/SCTCWhatATeam

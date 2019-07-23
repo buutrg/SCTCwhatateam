@@ -11,7 +11,7 @@ The Python functions (linGen, linFwd, linRev) could be retrieved by running the 
 
 ```{r}
 library(reticulate)
-# source_python("./linmethods.py")
+source_python("./linmethods.py")
 ```
 
 The data example is provided by DREAM Single Cell Transcriptomics Challenge in the Supplementary folder.

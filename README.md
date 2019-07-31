@@ -26,7 +26,7 @@ The input requirements are based on each method's preference. In general,
 
 - Reference gene expression for locations (Locations x Genes): see bdtnp.csv
 
-- Reference scRNA-Seq binarized file (Cells x Genes): see binarized_bdtnp.csv
+- Reference scRNA-Seq binarized file (Locations x Genes): see binarized_bdtnp.csv
 
 - Raw scRNA-Seq expression (Cell x Genes): see dge_raw.csv
 
@@ -34,4 +34,4 @@ The input requirements are based on each method's preference. In general,
 
 - 3D coordinates for each locations (Locations x (x,y,z) coordinates): see geometry.csv
 
-- Seed list: seed_list.csv
+- Seed list (Locations x coordinates): seed_list.csv

@@ -20,7 +20,7 @@ The data example is provided by DREAM Single Cell Transcriptomics Challenge in t
 
 Please see tutorial in the "Shiny app tutorial.docx" in the Supplementary folder.
 
-To simplify we have developed an easy-to-use user interface at http://nugget.unisa.edu.au:3838/SCTCWhatATeam
+To simplify we have developed an easy-to-use user interface at https://github.com/pvvhoang/SCTCwhatateam-ShinyApp
 
 The input requirements are based on each method's preference. In general,
 

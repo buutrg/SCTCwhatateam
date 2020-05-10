@@ -1,7 +1,7 @@
 
 # SCTCwhatateam: Predicting cell locations based on location-marker genes
 
-### Supplementary folder: https://www.dropbox.com/sh/q7fq3y5yw1lmtrq/AAAnVDVAWzdBRS6FJor-Bk1Aa?dl=0
+### Supplementary folder: https://github.com/pvvhoang/SCTCwhatateam-ShinyApp/tree/master/Supplementary
 
 ## 1. Using a package
 
